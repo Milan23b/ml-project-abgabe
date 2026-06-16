@@ -54,21 +54,28 @@ Your presentation should generally follow this structure:
 
 ## Submission Instructions
 
-**Note**: Only ONE team member needs to submit the project.
+**Note**: Only ONE team member submits on behalf of the whole team.
+
+### Prepare your repository
 
 1. **Slides**: Create your presentation slides. Save them in `4_Presentation` as a PowerPoint, Google Slides, or PDF file.
 
 2. **Cover Image**: Replace the placeholder image in `CoverImage` with an image from your slides.
 
-3. **README**: Update the main [README](../README.md) with project details.
+3. **README**: Update the main [README](../README.md) with your project details.
 
 4. **Link to Slides**: Modify the link in this folder's [README](README.md) to point to your presentation slides.
 
-5. **edu.opencampus.sh Submission**:
-   - Log in at [edu.opencampus.sh](https://edu.opencampus.sh).
-   - Navigate to your course and go to the 'achievements' section.
-   - Select your project title and download possible project specific documentation instructions.
-   - Upload the main [README](../README.md) via the upload dialog.
-   - Include co-authors in the upload dialog as applicable.
+### Submit on edu.opencampus.sh
 
-**Deadline**: All submissions will be reviewed post-deadline and certificates will be issued accordingly.
+1. Log in at [edu.opencampus.sh](https://edu.opencampus.sh) and open your course.
+2. In the **Projects** section, propose your project (or join an existing one) and form your team. Your instructor confirms the team.
+3. Once the project is **In progress**, open the **My Project** panel and provide the required deliverables:
+   - **Presentation**: upload your slides.
+   - **External link**: paste the link to this repository.
+   - **Cover image**: upload your cover image.
+
+   You can download the project's documentation instruction PDF from this panel at any time. A written documentation file is optional for this project type.
+4. Click **Submit project** and select every author who actively contributed.
+
+**Deadline**: Submit by the deadline shown in the **My Project** panel. Submissions are reviewed by an instructor, who may approve them or send them back for revision; certificates are issued for approved projects.
