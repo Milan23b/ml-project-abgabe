@@ -90,7 +90,3 @@ Set `BTC_DATA_PATH` to the canonical candle CSV/Parquet file for live EDA checks
 ## Scope
 
 This repository documents a research result, not a production trading system or financial recommendation.
-
-## Cover Image
-
-![Project Cover Image](CoverImage/cover_image.png)
